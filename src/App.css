@@ -1,0 +1,9 @@
+.poster-container {
+  min-height: 400px;
+  max-width: 1140px;
+  align-items: center;
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+}
